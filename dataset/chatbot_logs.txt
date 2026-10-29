@@ -1,0 +1,9 @@
+
+New session: 71caccec
+[2026-10-28T20:59:17] ERROR: model 'llama3.2:1b' not found (status code: 404)
+
+New session: 01d21f5a
+[2026-10-28T21:02:36] ERROR: model 'llama3.2:1b' not found (status code: 404)
+[2026-10-28T21:02:36] ERROR: model 'llama3.2:1b' not found (status code: 404)
+[2026-10-28T21:02:36] ERROR: model 'llama3.2:1b' not found (status code: 404)
+[2026-10-28T21:02:36] ERROR: model 'llama3.2:1b' not found (status code: 404)
